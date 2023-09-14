@@ -1,0 +1,18 @@
+.title {
+  width: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 8vh;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: transparent;
+  -moz-text-stroke-width: .125rem;
+  -webkit-text-stroke-width: .125rem;
+  -webkit-text-stroke-color:wheat;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #4143c07e, 0 0 40px #e60073,
+  0 0 50px #5800e6, 0 0 60px #5800e6, 0 0 70px #5800e6;
+  
+  }

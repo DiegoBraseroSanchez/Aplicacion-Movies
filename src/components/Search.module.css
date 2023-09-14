@@ -1,0 +1,27 @@
+.searchContainer{
+    display: flex;
+    justify-content: center;
+}
+.seachBox{
+ position: relative;
+}
+.searchInput{
+    height: 1.875rem;
+    border-radius: .625rem;
+    padding: .3125rem 1.875rem .3125rem .625rem;
+    font-size: 1.2rem;
+    border: .0625rem solid wheat;
+}
+.searchInput:focus,.searchButton:focus{
+    outline: none;
+    border: .0625rem solid rgb(139, 13, 139);
+    box-shadow: 0 0 .3125rem rgb(207, 114, 207);
+}
+.searchButton{
+    height: 100%;
+    position: absolute;
+    right: .4375rem;
+    top: 0;
+   
+    
+}

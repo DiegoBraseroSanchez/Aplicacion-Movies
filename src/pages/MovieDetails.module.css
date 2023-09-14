@@ -1,0 +1,21 @@
+.detailsContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.col{
+    max-width: 25rem;
+   
+    height: 80%;
+    margin: .9375rem;
+}
+.movieImagen{
+    border-radius: .9375rem;
+}
+.movieDetails{
+    font-size: 1.7rem ;
+    color: wheat;
+}
+.firtsItem{
+    margin-top: 0;
+}
