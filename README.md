@@ -1,70 +1,11 @@
-# Getting Started with Create React App
+Creación de una pagina Web realiza con React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Realice esta pagina con React dado que ahora mismo esta muy cotizado saber React y dije...¡Vamos a practicar! Lo que hice fue una simulación de una pagina de peliculas donde utilice una API https://www.themoviedb.org/ que te traía mas de 500 pelis con sus imágenes y sus títulos. Luego yo le fui dando forma a la pagina 👨‍💻
+![Movies](https://github.com/DiegoBraseroSanchez/Aplicaci-n-Movies/assets/129300180/bf782613-7773-403c-bc83-528485dfdb28)
+![Movies2](https://github.com/DiegoBraseroSanchez/Aplicaci-n-Movies/assets/129300180/7c0efa82-70ba-43c4-bb64-cf340650c7c2)
+![Movies3](https://github.com/DiegoBraseroSanchez/Aplicaci-n-Movies/assets/129300180/3cc40c4e-243b-4615-9819-2b09ce88446c)
+Puedes pinchar en la imagen y te llevara a otra pagina donde te monstrara el titulo de la peli, el genero y la descripcion 🤓
+![Movies4](https://github.com/DiegoBraseroSanchez/Aplicaci-n-Movies/assets/129300180/13f2f325-d24b-4710-82c7-a6a490f20996)
+La pagina es 100% responsive para cualquier dispostivo,el maquetado hizo con Grid para dar un estilo de cuadriculas 📱 🖥️
+![Movies5](https://github.com/DiegoBraseroSanchez/Aplicaci-n-Movies/assets/129300180/4bb41386-de88-49b0-b4a8-e13ae6fda279)
+![Movies6](https://github.com/DiegoBraseroSanchez/Aplicaci-n-Movies/assets/129300180/49b1586f-eee7-4a57-b267-736691647764)
